@@ -1,0 +1,12 @@
+{
+    "require": {
+        "slim/slim": "^2.6",
+        "fzaninotto/faker": "^1.5"
+    },
+	"autoload": {
+		"psr-4": {
+			"controllers\\": "controllers",
+			"models\\": "models"
+		}
+	}
+}
