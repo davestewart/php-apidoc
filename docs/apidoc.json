@@ -1,0 +1,8 @@
+{
+	"name": "API Documentation",
+	"version": "0.1.0",
+	"description": "Auto-generated API document",
+	"title": "API Documentation",
+	"url": "http://localhost/api",
+	"sampleUrl":"http://localhost:8000"
+}
